@@ -1,6 +1,6 @@
 <h2 align="center">Acerca de mí.</h2>
 
-- ![](https://komarev.com/ghpvc/?username=MadVersal&color=blue)
+- ![](https://komarev.com/ghpvc/?username=Leexito777s&color=blue)
 
 <h2 align="center">Proyectos</h2>
 Tengo varios proyectos muy interesantes y modernos, a continuación os mostraré algunos ejemplos.:
